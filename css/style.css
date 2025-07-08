@@ -102,3 +102,28 @@ body {
     padding: 77px;
     border-radius: 7px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 200;
+    padding: 100px;
+    max-width: 60%;
+}
+
+.quote span {
+    padding-left: 280px;
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    top: 30px;
+}
